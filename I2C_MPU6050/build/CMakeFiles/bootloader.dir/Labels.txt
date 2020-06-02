@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+/home/avinaash/Projects/esp/esp_EclipseWS/I2C_MPU6050/build/CMakeFiles/bootloader
+/home/avinaash/Projects/esp/esp_EclipseWS/I2C_MPU6050/build/CMakeFiles/bootloader.rule
+/home/avinaash/Projects/esp/esp_EclipseWS/I2C_MPU6050/build/CMakeFiles/bootloader-complete.rule
+/home/avinaash/Projects/esp/esp_EclipseWS/I2C_MPU6050/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+/home/avinaash/Projects/esp/esp_EclipseWS/I2C_MPU6050/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+/home/avinaash/Projects/esp/esp_EclipseWS/I2C_MPU6050/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+/home/avinaash/Projects/esp/esp_EclipseWS/I2C_MPU6050/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
+/home/avinaash/Projects/esp/esp_EclipseWS/I2C_MPU6050/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+/home/avinaash/Projects/esp/esp_EclipseWS/I2C_MPU6050/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+/home/avinaash/Projects/esp/esp_EclipseWS/I2C_MPU6050/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
