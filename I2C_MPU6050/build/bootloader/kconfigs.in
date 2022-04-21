@@ -1,5 +1,0 @@
-source "/home/avinaash/Projects/esp/esp-idf/components/efuse/Kconfig"
-source "/home/avinaash/Projects/esp/esp-idf/components/esp32/Kconfig"
-source "/home/avinaash/Projects/esp/esp-idf/components/esp_common/Kconfig"
-source "/home/avinaash/Projects/esp/esp-idf/components/log/Kconfig"
-source "/home/avinaash/Projects/esp/esp-idf/components/spi_flash/Kconfig"
